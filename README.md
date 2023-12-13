@@ -1,4 +1,4 @@
-#Automatic Youtube Shorts
+# Automatic Youtube Shorts
 
 This is a programm that aims at automating the process of making short-format educational videos on specified topics
 
