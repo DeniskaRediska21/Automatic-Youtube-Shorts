@@ -27,6 +27,8 @@ the `image2image StableDiffusion` model.
 |---|---|---|
 |![Video 1](Media/Mind-Blowing_Venus, Our Solar System's Fiery Planet!-(1080p).mp4)|![Video 2](Media/Unbelievable Sunflower Secrets!-(1080p).mp4)|![Video 3](Media/The Evolution of Rockets_ A Journey to the Stars-(720p60).mp4)|
 
+<video src="https://github.com/DeniskaRediska21/Automatic-Youtube-Shorts/tree/main/Media/https://github.com/DeniskaRediska21/Automatic-Youtube-Shorts/blob/main/Media/Mind-Blowing_Venus%2C%20Our%20Solar%20System's%20Fiery%20Planet!-(1080p).mp4">
+
 
 **More outputs can be seen at:**
 [Beyond The Concrete Jungle](https://www.youtube.com/@BeyondTheConcreteJungle)
