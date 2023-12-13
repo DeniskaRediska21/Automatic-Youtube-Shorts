@@ -25,9 +25,8 @@ the `image2image StableDiffusion` model.
 
 | Mind-Bloiwng:Venus, Our Solar Systems's Fiery Planet | Unbelievable Sunflower Secrets | The Evolution of Rockets: A Journey to the Stars |
 |---|---|---|
-|![Video 1](Media/Mind-Blowing_Venus, Our Solar System's Fiery Planet!-(1080p).mp4)|![Video 2](Media/Unbelievable Sunflower Secrets!-(1080p).mp4)|![Video 3](Media/The Evolution of Rockets_ A Journey to the Stars-(720p60).mp4)|
+|[![Watch the video](https://img.youtube.com/vi/shorts/w3cy2ym1v4Q.jpg)](https://www.youtube.com/shorts/w3cy2ym1v4Q)|||
 
-<video src="https://github.com/DeniskaRediska21/Automatic-Youtube-Shorts/tree/main/Media/https://github.com/DeniskaRediska21/Automatic-Youtube-Shorts/blob/main/Media/Mind-Blowing_Venus%2C%20Our%20Solar%20System's%20Fiery%20Planet!-(1080p).mp4">
 
 
 **More outputs can be seen at:**
