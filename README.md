@@ -22,12 +22,5 @@ the `image2image StableDiffusion` model.
 6) All of the generated content is edited together through `moviepy` library
 
 
-
-| Mind-Bloiwng:Venus, Our Solar Systems's Fiery Planet | Unbelievable Sunflower Secrets | The Evolution of Rockets: A Journey to the Stars |
-|---|---|---|
-|[![Watch the video](https://img.youtube.com/vi/shorts/w3cy2ym1v4Q.jpg)](https://www.youtube.com/shorts/w3cy2ym1v4Q)|||
-
-
-
-**More outputs can be seen at:**
+**Outputs can be seen at:**
 [Beyond The Concrete Jungle](https://www.youtube.com/@BeyondTheConcreteJungle)
