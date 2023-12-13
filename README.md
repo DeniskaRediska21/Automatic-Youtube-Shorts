@@ -24,3 +24,9 @@ the `image2image StableDiffusion` model.
 
 **Outputs can be seen at:**
 [Beyond The Concrete Jungle](https://www.youtube.com/@BeyondTheConcreteJungle)
+
+TODO:
+[] Implement the option to use local open source LLMs for text generation
+[] Implement an option to use models other than SDXL 
+[] Implement Latent Consistency models for up to 10x increase in generation speeds, with reduced quality
+
