@@ -5,7 +5,7 @@ from Supports.TextEditing import split_into_sentences, cleenup
 from Supports.GPT import get_gpt_responce
 
 generate_music= False
-topics=['Deserts', 'Bisons']
+topics=['Deserts']
 not_=''
 for topic in range(len(topics)):
     #  good topic about black holes180
@@ -32,7 +32,8 @@ for topic in range(len(topics)):
     description = get_gpt_responce(prompt)
 
 
-    
+    if not os.path.isdir('Result'):
+        os.mkdir('Result')
     
     try:
         os.mkdir(savePath)
@@ -49,6 +50,7 @@ for topic in range(len(topics)):
     with open(savePath+"title.txt", "w") as text_file:
         text_file.write(get_gpt_responce(f'Transform this title to be more clickbait. Title: {Title_}. Dont use smiles. No more then 3 words'))
         
+    #os.system('kill -SIGUSR1 $(pgrep -f ollama)')
         
     # TTS Section________________________________________________________________
     from Supports.TTS import tts
