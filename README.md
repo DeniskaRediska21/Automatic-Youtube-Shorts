@@ -28,6 +28,7 @@ Remarks:
 [Beyond The Concrete Jungle](https://www.youtube.com/@BeyondTheConcreteJungle)
 
 TODO:
+
 [x] Implement the option to use local open source LLMs for text generation
 
 [x] Implement an option to use models other than SDXL 
