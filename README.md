@@ -29,6 +29,6 @@ Remarks:
 
 TODO:
 [x] Implement the option to use local open source LLMs for text generation
-[] Implement an option to use models other than SDXL 
-[] Implement Latent Consistency models for up to 10x increase in generation speeds, with reduced quality
+[x] Implement an option to use models other than SDXL 
+[x] Implement Latent Consistency models for up to 10x increase in generation speeds, with reduced quality
 
