@@ -64,7 +64,7 @@ def generate_video(responce_split:list[str],
                     guidance_scale = 8,
                     guidance_scale_r = 8,
                     guidance_scale_2 = 8,
-                    type = 'cf')->None:
+                    type = 'xl')->None:
 
     if not(savePath):
         savePath=os.path.dirname(os.path.realpath(__file__))

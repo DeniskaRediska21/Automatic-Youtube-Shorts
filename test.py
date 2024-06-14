@@ -5,4 +5,5 @@ generate_video(['A magical waterflow with rainbow'],
 type = 'pm',
 lcm = False,
 lcm2 = False,
-strength = 0.6)
+strength = 0.8,
+guidance_scale_2 = 5,)
