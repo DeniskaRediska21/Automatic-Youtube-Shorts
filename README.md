@@ -12,7 +12,7 @@ The final videos include:
 
 How it all works:
 
-1) The script, title and description is generated using an LLM (ChatGPT throug `G4f` sdk)
+1) The script, title and description is generated using an LLM (ChatGPT throug `G4f` sdk or local model through Ollama)
 2) The voiceower is generated for the provided script, using `tortoise_tts` 
 3) The sequence of coherent images is generated using `StableDiffusion`. This includes 1 'keyframe' image for every sentance which is creates
 focusing on the sentance provided, and the series of the subframe images, which are placed between keyframe images and are generated using
