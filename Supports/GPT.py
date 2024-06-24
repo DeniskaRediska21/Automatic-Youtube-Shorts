@@ -50,7 +50,7 @@ def get_gpt_responce(prompt,model = 'mistral'):
 def ollama_responce(prompt, model, q):
 
 
-    from langchain.llms import Ollama
+    from langchain_community.llms import Ollama
     import torch
     try:
         with torch.no_grad():
